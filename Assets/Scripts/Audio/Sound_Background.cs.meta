@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 4ab1d8ce0f59ab84d9f06042625317b4
+timeCreated: 1528418830
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - intro: {instanceID: 0}
+  - looped: {instanceID: 0}
+  - PickUpSound: {fileID: 8300000, guid: ee4ac4be67a6e6b43aaf40baa6270d4a, type: 3}
+  - PlayerLaserSound: {fileID: 8300000, guid: 674d3fb9713a5f845a31eb8f017b57ca, type: 3}
+  - PlayerExplosiveSound: {fileID: 8300000, guid: 95edff805e4a23c4b8598a1c2a3b971c,
+      type: 3}
+  - GunnerLaser: {fileID: 8300000, guid: 53d4d7ea27c813d45a56839b263118f8, type: 3}
+  - SniperLaser: {fileID: 8300000, guid: 0cee4e5222c8b714f8d0e53a780b0a7c, type: 3}
+  - BotCollide: {fileID: 8300000, guid: e4ea3a2c2c9e97b45a5598913e73d54a, type: 3}
+  - SpinnerWhirr: {fileID: 8300000, guid: 5aaf912903653904c9430ed554213df5, type: 3}
+  - SeekerFound: {fileID: 8300000, guid: f095243540a147d479b109d46ff56edb, type: 3}
+  - Booster: {fileID: 8300000, guid: 94de0487d78a4f347a16f5e83b5ec62f, type: 3}
+  - Idle1: {fileID: 8300000, guid: 558e14b5df1acdc40836021b554e5d7f, type: 3}
+  - Idle2: {fileID: 8300000, guid: 66b9189d280179443922b402e882ef4e, type: 3}
+  - explosionSound: {fileID: 8300000, guid: 3a64d5581d700be4095d4ed6a668c06f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

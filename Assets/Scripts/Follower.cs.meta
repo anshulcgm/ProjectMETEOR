@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 523eaa5c1627d984c8e97ee7f01f2de9
+timeCreated: 1526249470
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - navScript: {instanceID: 0}
+  - r: {instanceID: 0}
+  - reservation: {fileID: 1778062496439494, guid: f20e37ff643add346a572cae3ccf8426,
+      type: 2}
+  - currReservation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

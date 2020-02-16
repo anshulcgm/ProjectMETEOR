@@ -1,0 +1,4 @@
+C:\Users\anshu\Documents\projmeteor_fixed2.0\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\anshu\Documents\projmeteor_fixed2.0\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\anshu\Documents\projmeteor_fixed2.0\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\anshu\Documents\projmeteor_fixed2.0\App\projmeteor_fixed2.0\projmeteor_fixed2.0.csproj;x86
